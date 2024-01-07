@@ -1,4 +1,5 @@
 <template>
+  <!-- Welcome-Page -->
   <div class="item">
     <i>
       <slot name="icon"></slot>
@@ -8,6 +9,7 @@
         <slot name="heading"></slot>
       </h3>
       <slot></slot>
+
     </div>
   </div>
 </template>

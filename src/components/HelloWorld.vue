@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <!-- Helloworld-page -->
+  <!-- Helloworld-Page -->
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
@@ -20,7 +20,7 @@ defineProps({
 </template>
 
 <style scoped>
-/* Hello world css */
+/* Hello-world-css */
 h1 {
   font-weight: 500;
   font-size: 2.6rem;
